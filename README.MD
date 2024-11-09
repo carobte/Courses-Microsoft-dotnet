@@ -10,4 +10,8 @@
         <p> To create the project with controller template: </p>
         <code> dotnet new webapi -controllers -f net8.0</code>
     </li>
+        <li>
+        <p> To run project </p>
+        <code> dotnet run</code>
+    </li>
 </ul>
