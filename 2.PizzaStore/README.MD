@@ -2,7 +2,7 @@
 
 <p> Practice repository for the Microsoft Learn course: Creating web applications and services with ASP.NET Core, minimal API and .NET </p>
 
-<a href ="https://learn.microsoft.com/es-es/training/modules/build-web-api-aspnet-core/?source=learn">Course</a>
+<a href ="https://learn.microsoft.com/es-es/training/modules/build-web-api-minimal-database/">Course</a>
 
 <h2>Comands</h2>
 <ul>
